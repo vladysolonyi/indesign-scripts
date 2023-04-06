@@ -1,4 +1,4 @@
-# indesign-scripts: A toolset of useful InDesign workflow optimizations
+# indesign-scripts: A toolset of InDesign workflow optimizations
 ![GitHub Repo stars](https://img.shields.io/github/stars/vladysolonyi/indesign-scripts?style=social)
 🥲
 
