@@ -6,7 +6,7 @@ This collection of scripts is made using **Basil.js** library for various scenar
 
 ## 🛠️ List of Tools
 
-- **align-type.js** *Removes the red spacing inside of all text text boxes*
+- **[align-type.js](/align-type.js)** *Removes the red spacing inside of all text text boxes*
   
   <img width="400" src="./example_images/align-type.png" alt="red spacing inside of a text box">
   
