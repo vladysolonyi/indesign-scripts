@@ -4,6 +4,14 @@
 
 This collection of scripts is made using **Basil.js** library for various scenarios. It's main goal is improving and simplifying your InDesign routine. From detail typography to generative graphics — you can find everything. *I hope...*
 
+## 🛠️ List of Tools
+
+- **align-type.js** *Removes the red spacing inside of all text text boxes*
+  
+  <img width="400" src="./example_images/align-type.png" alt="red spacing inside of a text box">
+  
+- **Coming soon...**
+
 ## 📜 Requirements
   - [Basil.js (Dev)](https://github.com/basiljs/basil.js/tree/develop)
   - Adobe InDesign
