@@ -3,7 +3,17 @@
 🥲
 
 This collection of scripts is made using **Basil.js** library for various scenarios. Its main goal is improving and simplifying your InDesign routine. From detail typography to generative graphics — you can find everything. 
+
 *I hope...*
+
+## Index
+
+- [indesign-scripts: InDesign workflow optimization toolset](#indesign-scripts-indesign-workflow-optimization-toolset)
+  - [**Index**](#index)
+  - [🛠️ List of Tools](#%EF%B8%8F-list-of-tools)
+  - [📜 Requirements](#-requirements)
+  - [⚙️ Installation Guide](#%EF%B8%8F-installation-guide)
+  - [😩 Compatibility](#-compatibility)
 
 ## 🛠️ List of Tools
 
@@ -25,11 +35,11 @@ Since you want to get those scripts running ASAP, follow these steps:
 
 Run this Terminal/Console command to link the scripts to the InDesign:
   
-**OSX:**
+**MacOS:**
 ```
 ln -s basiljs_PATH Scripts_Panel_PATH
 ```
-**WIN:**
+**Win:**
 ```
 mklink /d Scripts_Panel_PATH basiljs_PATH
 ```
@@ -43,3 +53,7 @@ Change `basiljs_PATH` to the path of your basil.js directory (Somewhere here `~/
 4. Open the Scripts panel in InDesign. In the **User** folder you should see your linked **basil.js** directory.
 
 5. To run the scripts just double-click the one you want to execute.
+
+## 😩 Compatibility 
+  - Tested in Adobe InDesign 2023 (18.2.1)
+  - Working on MacOS Ventura 13.3
