@@ -25,7 +25,7 @@ ln -s basiljs_PATH Scripts_Panel_PATH
 mklink /d Scripts_Panel_PATH basiljs_PATH
 ```
 
-Change 'basiljs_PATH' to the path of your basil.js directory (Somewhere here '~/Documents/basiljs') and 'Scripts_Panel_PATH' to the path of your InDesign scripts directory by opening the **Window>Utilities>Scripts**, right-clicking the User folder, opening it in finder/explorer.
+Change `basiljs_PATH` to the path of your basil.js directory (Somewhere here `~/Documents/basiljs`) and `Scripts_Panel_PATH` to the path of your InDesign scripts directory by opening the **Window>Utilities>Scripts**, right-clicking the User folder, opening it in finder/explorer.
 
 2. Download the scripts by clicking **CODE>Download ZIP** at the top of the page ☝️ 
 
